@@ -1,2 +1,13 @@
-
+.navbar{
+    background-color: black;
+    padding: 5px;
+    
+}
+.navbar a{
+    display: inline-block;
+    color: white;
+}
+.navbar a:hover{
+    color: red;
+}
 /* Your CSS Code here. */
